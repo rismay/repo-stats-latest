@@ -1,43 +1,97 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
 <rect x="0" y="0" width="900" height="420" fill="#f8fafc" />
-<text x="450" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Weekly Commit Activity (2026-01-01 - 2026-02-22)</text>
+<text x="450" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Weekly Commit Activity (2025-07-01 - 2026-02-22)</text>
 <line x1="60" y1="340" x2="880" y2="340" stroke="#cbd5e1" stroke-width="1" />
 <g font-family="monospace" font-size="11" fill="#1e293b">
 <line x1="60" y1="340.0" x2="880" y2="340.0" stroke="#e2e8f0" stroke-width="1" />
 <text x="52" y="343.0" text-anchor="end">0</text>
-<line x1="60" y1="262.9100529100529" x2="880" y2="262.9100529100529" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="265.9100529100529" text-anchor="end">47</text>
-<line x1="60" y1="185.82010582010582" x2="880" y2="185.82010582010582" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="188.82010582010582" text-anchor="end">94</text>
-<line x1="60" y1="108.73015873015873" x2="880" y2="108.73015873015873" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="111.73015873015873" text-anchor="end">141</text>
-<line x1="60" y1="31.640211640211646" x2="880" y2="31.640211640211646" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="34.640211640211646" text-anchor="end">188</text>
+<line x1="60" y1="262.7574750830565" x2="880" y2="262.7574750830565" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="265.7574750830565" text-anchor="end">75</text>
+<line x1="60" y1="185.51495016611295" x2="880" y2="185.51495016611295" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="188.51495016611295" text-anchor="end">150</text>
+<line x1="60" y1="108.27242524916943" x2="880" y2="108.27242524916943" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="111.27242524916943" text-anchor="end">225</text>
+<line x1="60" y1="31.029900332225907" x2="880" y2="31.029900332225907" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="34.02990033222591" text-anchor="end">300</text>
 </g>
 <g font-family="monospace">
-<rect x="60.0" y="328.51851851851853" width="95.5" height="11.481481481481481" fill="#2f80ed" rx="2"/>
-<text x="107.75" y="370" transform="rotate(-45 107.75,370)" text-anchor="middle" font-size="10" fill="#334155">12/29</text>
-<text x="107.75" y="322" text-anchor="middle" font-size="10" fill="#334155">7</text>
-<rect x="163.5" y="251.42857142857144" width="95.5" height="88.57142857142857" fill="#2f80ed" rx="2"/>
-<text x="211.25" y="370" transform="rotate(-45 211.25,370)" text-anchor="middle" font-size="10" fill="#334155">01/05</text>
-<text x="211.25" y="245" text-anchor="middle" font-size="10" fill="#334155">54</text>
-<rect x="267.0" y="340.0" width="95.5" height="0.0" fill="#2f80ed" rx="2"/>
-<text x="314.75" y="370" transform="rotate(-45 314.75,370)" text-anchor="middle" font-size="10" fill="#334155">01/12</text>
-<text x="314.75" y="334" text-anchor="middle" font-size="10" fill="#334155">0</text>
-<rect x="370.5" y="136.61375661375664" width="95.5" height="203.38624338624336" fill="#2f80ed" rx="2"/>
-<text x="418.25" y="370" transform="rotate(-45 418.25,370)" text-anchor="middle" font-size="10" fill="#334155">01/19</text>
-<text x="418.25" y="130" text-anchor="middle" font-size="10" fill="#334155">124</text>
-<rect x="474.0" y="248.14814814814815" width="95.5" height="91.85185185185185" fill="#2f80ed" rx="2"/>
-<text x="521.75" y="370" transform="rotate(-45 521.75,370)" text-anchor="middle" font-size="10" fill="#334155">01/26</text>
-<text x="521.75" y="242" text-anchor="middle" font-size="10" fill="#334155">56</text>
-<rect x="577.5" y="30.0" width="95.5" height="310.0" fill="#2f80ed" rx="2"/>
-<text x="625.25" y="370" transform="rotate(-45 625.25,370)" text-anchor="middle" font-size="10" fill="#334155">02/02</text>
-<text x="625.25" y="24" text-anchor="middle" font-size="10" fill="#334155">189</text>
-<rect x="681.0" y="87.40740740740742" width="95.5" height="252.59259259259258" fill="#2f80ed" rx="2"/>
-<text x="728.75" y="370" transform="rotate(-45 728.75,370)" text-anchor="middle" font-size="10" fill="#334155">02/09</text>
-<text x="728.75" y="81" text-anchor="middle" font-size="10" fill="#334155">154</text>
-<rect x="784.5" y="149.73544973544975" width="95.5" height="190.26455026455025" fill="#2f80ed" rx="2"/>
-<text x="832.25" y="370" transform="rotate(-45 832.25,370)" text-anchor="middle" font-size="10" fill="#334155">02/16</text>
-<text x="832.25" y="143" text-anchor="middle" font-size="10" fill="#334155">116</text>
+<rect x="60.0" y="269.9667774086379" width="23.846153846153847" height="70.03322259136213" fill="#2f80ed" rx="2"/>
+<text x="71.92307692307692" y="370" transform="rotate(-45 71.92307692307692,370)" text-anchor="middle" font-size="10" fill="#334155">07/14</text>
+<text x="71.92307692307692" y="263" text-anchor="middle" font-size="10" fill="#334155">68</text>
+<rect x="91.84615384615384" y="212.2923588039867" width="23.846153846153847" height="127.70764119601328" fill="#2f80ed" rx="2"/>
+<text x="103.76923076923076" y="370" transform="rotate(-45 103.76923076923076,370)" text-anchor="middle" font-size="10" fill="#334155">07/21</text>
+<text x="103.76923076923076" y="206" text-anchor="middle" font-size="10" fill="#334155">124</text>
+<rect x="123.6923076923077" y="252.45847176079735" width="23.846153846153847" height="87.54152823920266" fill="#2f80ed" rx="2"/>
+<text x="135.6153846153846" y="370" transform="rotate(-45 135.6153846153846,370)" text-anchor="middle" font-size="10" fill="#334155">07/28</text>
+<text x="135.6153846153846" y="246" text-anchor="middle" font-size="10" fill="#334155">85</text>
+<rect x="155.53846153846155" y="30.0" width="23.846153846153847" height="310.0" fill="#2f80ed" rx="2"/>
+<text x="167.46153846153848" y="370" transform="rotate(-45 167.46153846153848,370)" text-anchor="middle" font-size="10" fill="#334155">08/04</text>
+<text x="167.46153846153848" y="24" text-anchor="middle" font-size="10" fill="#334155">301</text>
+<rect x="187.3846153846154" y="60.89700996677743" width="23.846153846153847" height="279.10299003322257" fill="#2f80ed" rx="2"/>
+<text x="199.30769230769232" y="370" transform="rotate(-45 199.30769230769232,370)" text-anchor="middle" font-size="10" fill="#334155">08/11</text>
+<text x="199.30769230769232" y="54" text-anchor="middle" font-size="10" fill="#334155">271</text>
+<rect x="219.23076923076923" y="203.02325581395348" width="23.846153846153847" height="136.97674418604652" fill="#2f80ed" rx="2"/>
+<text x="231.15384615384616" y="370" transform="rotate(-45 231.15384615384616,370)" text-anchor="middle" font-size="10" fill="#334155">08/18</text>
+<text x="231.15384615384616" y="197" text-anchor="middle" font-size="10" fill="#334155">133</text>
+<rect x="251.0769230769231" y="196.84385382059799" width="23.846153846153847" height="143.15614617940201" fill="#2f80ed" rx="2"/>
+<text x="263.0" y="370" transform="rotate(-45 263.0,370)" text-anchor="middle" font-size="10" fill="#334155">08/25</text>
+<text x="263.0" y="190" text-anchor="middle" font-size="10" fill="#334155">139</text>
+<rect x="282.9230769230769" y="263.7873754152824" width="23.846153846153847" height="76.2126245847176" fill="#2f80ed" rx="2"/>
+<text x="294.8461538461538" y="370" transform="rotate(-45 294.8461538461538,370)" text-anchor="middle" font-size="10" fill="#334155">09/01</text>
+<text x="294.8461538461538" y="257" text-anchor="middle" font-size="10" fill="#334155">74</text>
+<rect x="314.7692307692308" y="323.5215946843854" width="23.846153846153847" height="16.47840531561462" fill="#2f80ed" rx="2"/>
+<text x="326.6923076923077" y="370" transform="rotate(-45 326.6923076923077,370)" text-anchor="middle" font-size="10" fill="#334155">09/08</text>
+<text x="326.6923076923077" y="317" text-anchor="middle" font-size="10" fill="#334155">16</text>
+<rect x="346.61538461538464" y="317.3421926910299" width="23.846153846153847" height="22.657807308970103" fill="#2f80ed" rx="2"/>
+<text x="358.53846153846155" y="370" transform="rotate(-45 358.53846153846155,370)" text-anchor="middle" font-size="10" fill="#334155">09/15</text>
+<text x="358.53846153846155" y="311" text-anchor="middle" font-size="10" fill="#334155">22</text>
+<rect x="378.46153846153845" y="314.25249169435216" width="23.846153846153847" height="25.74750830564784" fill="#2f80ed" rx="2"/>
+<text x="390.38461538461536" y="370" transform="rotate(-45 390.38461538461536,370)" text-anchor="middle" font-size="10" fill="#334155">09/22</text>
+<text x="390.38461538461536" y="308" text-anchor="middle" font-size="10" fill="#334155">25</text>
+<rect x="410.3076923076923" y="326.6112956810631" width="23.846153846153847" height="13.388704318936876" fill="#2f80ed" rx="2"/>
+<text x="422.2307692307692" y="370" transform="rotate(-45 422.2307692307692,370)" text-anchor="middle" font-size="10" fill="#334155">09/29</text>
+<text x="422.2307692307692" y="320" text-anchor="middle" font-size="10" fill="#334155">13</text>
+<rect x="442.1538461538462" y="323.5215946843854" width="23.846153846153847" height="16.47840531561462" fill="#2f80ed" rx="2"/>
+<text x="454.0769230769231" y="370" transform="rotate(-45 454.0769230769231,370)" text-anchor="middle" font-size="10" fill="#334155">10/06</text>
+<text x="454.0769230769231" y="317" text-anchor="middle" font-size="10" fill="#334155">16</text>
+<rect x="474.0" y="306.01328903654485" width="23.846153846153847" height="33.986710963455145" fill="#2f80ed" rx="2"/>
+<text x="485.9230769230769" y="370" transform="rotate(-45 485.9230769230769,370)" text-anchor="middle" font-size="10" fill="#334155">10/27</text>
+<text x="485.9230769230769" y="300" text-anchor="middle" font-size="10" fill="#334155">33</text>
+<rect x="505.84615384615387" y="338.9700996677741" width="23.846153846153847" height="1.0299003322259137" fill="#2f80ed" rx="2"/>
+<text x="517.7692307692308" y="370" transform="rotate(-45 517.7692307692308,370)" text-anchor="middle" font-size="10" fill="#334155">11/03</text>
+<text x="517.7692307692308" y="332" text-anchor="middle" font-size="10" fill="#334155">1</text>
+<rect x="537.6923076923076" y="333.8205980066445" width="23.846153846153847" height="6.179401993355481" fill="#2f80ed" rx="2"/>
+<text x="549.6153846153845" y="370" transform="rotate(-45 549.6153846153845,370)" text-anchor="middle" font-size="10" fill="#334155">11/10</text>
+<text x="549.6153846153845" y="327" text-anchor="middle" font-size="10" fill="#334155">6</text>
+<rect x="569.5384615384615" y="337.9401993355482" width="23.846153846153847" height="2.0598006644518274" fill="#2f80ed" rx="2"/>
+<text x="581.4615384615385" y="370" transform="rotate(-45 581.4615384615385,370)" text-anchor="middle" font-size="10" fill="#334155">12/08</text>
+<text x="581.4615384615385" y="331" text-anchor="middle" font-size="10" fill="#334155">2</text>
+<rect x="601.3846153846154" y="329.7009966777409" width="23.846153846153847" height="10.299003322259138" fill="#2f80ed" rx="2"/>
+<text x="613.3076923076923" y="370" transform="rotate(-45 613.3076923076923,370)" text-anchor="middle" font-size="10" fill="#334155">12/15</text>
+<text x="613.3076923076923" y="323" text-anchor="middle" font-size="10" fill="#334155">10</text>
+<rect x="633.2307692307693" y="315.28239202657807" width="23.846153846153847" height="24.717607973421924" fill="#2f80ed" rx="2"/>
+<text x="645.1538461538462" y="370" transform="rotate(-45 645.1538461538462,370)" text-anchor="middle" font-size="10" fill="#334155">12/22</text>
+<text x="645.1538461538462" y="309" text-anchor="middle" font-size="10" fill="#334155">24</text>
+<rect x="665.0769230769231" y="324.5514950166113" width="23.846153846153847" height="15.448504983388704" fill="#2f80ed" rx="2"/>
+<text x="677.0" y="370" transform="rotate(-45 677.0,370)" text-anchor="middle" font-size="10" fill="#334155">12/29</text>
+<text x="677.0" y="318" text-anchor="middle" font-size="10" fill="#334155">15</text>
+<rect x="696.9230769230769" y="284.3853820598007" width="23.846153846153847" height="55.61461794019934" fill="#2f80ed" rx="2"/>
+<text x="708.8461538461538" y="370" transform="rotate(-45 708.8461538461538,370)" text-anchor="middle" font-size="10" fill="#334155">01/05</text>
+<text x="708.8461538461538" y="278" text-anchor="middle" font-size="10" fill="#334155">54</text>
+<rect x="728.7692307692308" y="212.2923588039867" width="23.846153846153847" height="127.70764119601328" fill="#2f80ed" rx="2"/>
+<text x="740.6923076923077" y="370" transform="rotate(-45 740.6923076923077,370)" text-anchor="middle" font-size="10" fill="#334155">01/19</text>
+<text x="740.6923076923077" y="206" text-anchor="middle" font-size="10" fill="#334155">124</text>
+<rect x="760.6153846153846" y="282.3255813953488" width="23.846153846153847" height="57.67441860465116" fill="#2f80ed" rx="2"/>
+<text x="772.5384615384615" y="370" transform="rotate(-45 772.5384615384615,370)" text-anchor="middle" font-size="10" fill="#334155">01/26</text>
+<text x="772.5384615384615" y="276" text-anchor="middle" font-size="10" fill="#334155">56</text>
+<rect x="792.4615384615385" y="145.34883720930233" width="23.846153846153847" height="194.65116279069767" fill="#2f80ed" rx="2"/>
+<text x="804.3846153846154" y="370" transform="rotate(-45 804.3846153846154,370)" text-anchor="middle" font-size="10" fill="#334155">02/02</text>
+<text x="804.3846153846154" y="139" text-anchor="middle" font-size="10" fill="#334155">189</text>
+<rect x="824.3076923076924" y="181.3953488372093" width="23.846153846153847" height="158.6046511627907" fill="#2f80ed" rx="2"/>
+<text x="836.2307692307693" y="370" transform="rotate(-45 836.2307692307693,370)" text-anchor="middle" font-size="10" fill="#334155">02/09</text>
+<text x="836.2307692307693" y="175" text-anchor="middle" font-size="10" fill="#334155">154</text>
+<rect x="856.1538461538462" y="220.531561461794" width="23.846153846153847" height="119.46843853820599" fill="#2f80ed" rx="2"/>
+<text x="868.0769230769231" y="370" transform="rotate(-45 868.0769230769231,370)" text-anchor="middle" font-size="10" fill="#334155">02/16</text>
+<text x="868.0769230769231" y="214" text-anchor="middle" font-size="10" fill="#334155">116</text>
 </g>
 </svg>
