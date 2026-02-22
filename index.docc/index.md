@@ -55,14 +55,14 @@ Generated date: 2026-02-22 | Window: 2025-07-01 through 2026-02-22.
 - public: 576 swift, 154 md
 - web: 0 swift, 20 md
 
-## Weekly commit chart
-![Weekly commit totals](index-weekly-commit-chart-diagram.svg)
+## Weekly Commit Activity
+![Weekly Commit Activity](index-weekly-commit-chart-diagram.svg)
 
-## Daily commit chart
-![Daily `.swift` + `.md` totals](index-daily-commit-chart-diagram.svg)
+## Daily `.swift` + `.md` Activity
+![Daily `.swift` + `.md` Activity](index-daily-commit-chart-diagram.svg)
 
-## Monthly `Package.swift` chart
-![Monthly owned Package.swift totals](index-monthly-package-swift-chart-diagram.svg)
+## Monthly Owned `Package.swift` Totals
+![Monthly Owned `Package.swift` Totals](index-monthly-package-swift-chart-diagram.svg)
 
 ## Weekly reports grouped by month
 - [July 2025](month-2025-07.md) (215 commits)
