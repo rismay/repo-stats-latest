@@ -1,4 +1,4 @@
-# swift-repo-stats share
+# swift-repo-stats-cli output
 
 @Metadata {
   @PageKind(article)
@@ -11,411 +11,438 @@ Generated date: 2026-02-22 | Window: 2026-01-01 through 2026-02-22.
 
 ## Summary
 - Format: text
-- Total weeks: 7
-- Total commits: 817
+- Total weeks: 8
+- Total commits: 700
 - Top teammate: Cristian A Monterroza
+
+## Weekly commit chart
+![Weekly commit totals](weekly-commits.svg)
+
+## Weekly reports
+- [Week 2025-12-29 .. 2026-01-04](week-2025-12-29.md)
+- [Week 2026-01-05 .. 2026-01-11](week-2026-01-05.md)
+- [Week 2026-01-12 .. 2026-01-18](week-2026-01-12.md)
+- [Week 2026-01-19 .. 2026-01-25](week-2026-01-19.md)
+- [Week 2026-01-26 .. 2026-02-01](week-2026-01-26.md)
+- [Week 2026-02-02 .. 2026-02-08](week-2026-02-02.md)
+- [Week 2026-02-09 .. 2026-02-15](week-2026-02-09.md)
+- [Week 2026-02-16 .. 2026-02-22](week-2026-02-16.md)
 
 ## Text output
 ```text
 Week 2025-12-29 .. 2026-01-04
-  - Cristian A Monterroza: 5
-    - add year-end 2025 updates, docs, and agent stats: 1
-    - feat: 2
-    - update codex sessions submodule to latest commit: 1
-    - update gemini-sessions submodule to latest commit: 1
-Week 2026-01-05 .. 2026-01-11
-  - Cristian A Monterroza: 79
-    - add 2026-01-07 journal entries and laussat studio rebrand: 1
-    - add brand identities documentation and assets: 1
-    - add diagrams and hero assets for ios scaling docs: 1
-    - add diagrams for terra design system transition: 1
-    - add generated documentation for laussat studio: 1
-    - add kitchen routine and hydration doc pages: 1
-    - add laussat studio docc scaling challenges and system designs: 1
-    - add laussat studio documentation site assets: 1
-    - add new docs, update ios scaling content, and asset renames: 1
-    - add personal routines docc bundle and update expertise docs: 1
-    - add svg sketch asset generator and update brand svgs: 1
-    - add svg sketch explorations and update documentation: 1
-    - add svg-sketch-explorations target and argument parser: 1
-    - ci: 2
-    - docs: 27
-    - expand rismay color documentation and add palette svgs: 1
-    - moo: 1
-    - refactor workflows to use matrix for os selection: 1
-    - remove audit_patterns.py and update submodules: 1
-    - remove temp.: 1
-    - rename docc-preview-cli references to docc-wrkstrm-cli: 1
-    - replace laussatstudio-github-io.docc with git submodule: 1
-    - restructure agent documentation into memory bundles: 1
-    - squashed 'docc/pages/public/laussatstudio-github-io.docc/' content from commit 868a16ae: 1
-    - squashed 'docc/pages/public/rismay-github-io.docc/' content from commit e538a6c0: 1
-    - standardize capitalization in docc article headings: 1
-    - standardize capitalization in docc documentation: 1
-    - standardize title casing in documentation: 1
-    - thing: 1
-    - unify agent docc catalogs and update documentation: 1
-    - update audit tooling and bump wrkstrmfoundation to 3.0.0: 1
-    - update codex agency doc and submodule reference: 1
-    - update docc-pages.yml: 1
-    - update documentation for studio laussat and rismay: 1
-    - update laussat studio docs and diagrams: 1
-    - update laussat studio docs and font api diagrams: 1
-    - update mono: 3
-    - update rismay brand svgs and fix doc headings: 1
-    - update rismay-github-io: 1
-    - update rismay-me-projects-hero.svg: 1
-    - update sessions: 6
-    - update spm.yml: 1
-    - update submodule commits for laussatstudio and rismay: 1
-    - update submodule references to latest commits: 2
-Week 2026-01-19 .. 2026-01-25
-  - Cristian A Monterroza: 51
-    - add bounding box fill option to sketchingkit path planner: 1
-    - add document-line-stats cli and codex jsonl docs: 1
-    - add initial sketchingkit core with path planning: 1
-    - add kebab-case audit cli and update agent docs: 1
-    - add layered shapes stack generator and jittered fills: 1
-    - add sketchingkit prototype and update wrkstrm package paths: 1
-    - chore: 10
-    - create journal-2026-01-25.md: 1
-    - create winddown-2026-01-25.md: 1
-    - docs: 1
-    - feat: 2
-    - migrate release naming docs to docc format: 1
-    - refactor agent triad naming and root profile structure: 1
-    - remove kebabcase audit command and library from carrie: 1
-    - rename agent json files to use @ in filenames: 1
-    - rename project-manager agent files and remove swift-architect agency: 1
-    - rename testing agent json files to use @ separator: 1
-    - rename wrkstrmlog references to commonlog in docs: 1
-    - replace dflatlib with swiftdirectorytools in foundry and target-audit: 1
-    - standardize agent triad file naming to <slug>@<repo>: 1
-    - update agent file naming to use <slug>@<scope> format: 1
-    - update agent file naming, audit checks, and init seeding: 1
-    - update carrie-expertise.md: 1
-    - update carrie-journal.md: 1
-    - update carrie@todo3.agency.json: 1
-    - update codex-expertise.md: 1
-    - update codex-journal.md: 1
-    - update codex@todo3.agency.json: 1
-    - update mono: 7
-    - update mono submodule for public-lib: 1
-    - update mono submodule to latest commit: 1
-    - update refs.: 1
-    - update skill.md: 1
-    - update submodules mono and rismay-github-io: 1
-    - update wrkstrmkit path to wrkstrm-kit in templates and docs: 1
-Week 2026-01-26 .. 2026-02-01
-  - Cristian A Monterroza: 70
-    - add .openclaw as submodule: 1
-    - add .openclaw workspace + config snapshot: 1
-    - add brand identity schemas and documentation: 1
-    - add clia org public site and profile readme: 1
-    - add code swiftly public site and profile readme: 1
-    - add common-process, wrkstrm-emoji submodules: 1
-    - add export script: 1
-    - add moltbook credentials: 1
-    - add openclaw clia bridge docs and reorganize docc: 1
-    - add openclaw sessions archive as submodule: 1
-    - add openclaw submodule and update documentation: 1
-    - add swift universal public site submodule: 1
-    - add swift-interview-guide: 1
-    - allow ai/exports/openclaw sessions submodule: 1
-    - bump openclaw-sessions submodule: 1
-    - chore: 1
-    - codeswiftly -> swift-universal: 1
-    - correct code swiftly repository and directory structure: 1
-    - deploy docc at /documentation/index: 1
-    - design systems moved to wrkstrm.github.io: 1
-    - docs: 1
-    - epic: 1
-    - expand laussat studio brand docs and add watercolor motif: 1
-    - finalize all public site migrations and submodule pointers: 1
-    - finalize public site structure and content migration: 1
-    - fix docc redirect loop: 1
-    - jarvis/iron man, stoic ace pilot: 3
-    - migrate agents to triad json schema and update docs: 1
-    - move brand docs to private, add claw agent files: 1
-    - not embedded git repo: 1
-    - publish swift-interview-guide: 1
-    - refactor agent logs and update documentation structure: 1
-    - refactor and expand sketching-kit structure: 1
-    - refactor docc dashboards and update documentation structure: 1
-    - refactor swift code formatting and improve clarity: 1
-    - remove .sh script: 1
-    - remove google maps font system design docs and resources: 1
-    - remove laussat-studio-github-io docc documentation: 1
-    - replace hero svg placeholders with illustrations: 1
-    - restructure and expand documentation for agents and brands: 1
-    - restructure and migrate agent documentation: 1
-    - restructure sketchingkit sources and add svg generators: 1
-    - standardize docc index.md with technologyroot across all sites: 1
-    - synchronize wrkstrm pages submodule with index overhaul: 1
-    - update .openclaw: 1
-    - update documentation assets and add journal entries: 1
-    - update github pages doc structure and documentation: 1
-    - update laussat-studio.github.io: 1
-    - update mono: 5
-    - update profile readme links to point to direct docc paths: 1
-    - update public profile readmes: 1
-    - update public sites with root redirects and direct direct links: 1
-    - update public-readme: 2
-    - update rismay.github.io: 1
-    - update sessions: 3
-    - update spm package paths and add data viz docs: 1
+  - Cristian A Monterroza: 7
+    - add bundle metrics caching and new tests for googlegenerativeai: 1
+    - add notion 2026 docs, code swiftly updates, and new cli: 1
+    - refactor and expand docc content, add new features: 1
+    - update cli-kit: 1
+    - update common-process submodule to latest commit: 1
+    - update submodules in configs and common-process: 1
     - update submodules to latest commits: 1
-    - update wrkstrm submodule to flattened structure: 1
-    - update wrkstrm.github.io: 2
-    - will re-add as submodule: 1
+Week 2026-01-05 .. 2026-01-11
+  - Cristian A Monterroza: 54
+    - add check for missing pageimage resources: 1
+    - add cli commands for heading capitalization across root: 1
+    - add clia chat command proposals feature docs and updates: 1
+    - add codeswiftly 2025 roundup documentation: 1
+    - add example for resource url resolution in docc: 1
+    - add heading capitalization fixer to docc validator: 1
+    - add invalid topics content issue handling and test: 1
+    - add journal entry for codeswiftly docc preview routing fix: 1
+    - add missing image and topics validation to docc: 1
+    - add tau agent docc expertise and telemetry docs: 1
+    - docc!: 1
+    - docs: 4
+    - document codeswiftly docc preview routing fix: 1
+    - expand roundup-report cli and update ai chat ui: 1
+    - expand roundup-report cli and update docc roundups: 1
+    - expand swiftui deep dive docs and add leetcode assets: 1
+    - expand taureportcli options and scanning logic: 1
+    - fix heading capitalization check logic: 1
+    - improve heading capitalization rules and tests: 1
+    - improve heading validation with brand exceptions: 1
+    - improve markdown file discovery in docc validator cli: 1
+    - improve resource validation and update tests: 1
+    - refactor and expand docc content, add svg resources: 1
+    - refactor markdown file discovery and update heading words: 1
+    - refactor shared swift files into feature-based folders: 1
+    - refactor test resources and add docc metadata validation: 1
+    - refactor workflows to use matrix for os selection: 1
+    - rename docc-preview-cli to docc-wrkstrm-cli and add export subcommand: 1
+    - rename tau-report to roundup-report and refactor cli: 1
+    - restructure docc articles and add memory resources: 1
+    - standardize capitalization in documentation headings: 1
+    - standardize docc header capitalization for agents: 1
+    - standardize heading capitalization and 'vs' usage: 1
+    - standardize heading capitalization in documentation: 1
+    - update and expand documentation across multiple modules: 1
+    - update and expand documentation articles: 1
+    - update and sync documentation across multiple modules: 1
+    - update any-language-model: 1
+    - update cli-kit: 1
+    - update common-process and common-shell submodules: 1
+    - update docc-design-system-visualization-engines.md: 1
+    - update headingcapitalization.swift: 1
+    - update pagespublisher.swift: 1
+    - update sosumi-extractor-epic.md: 1
+    - update spm submodules to latest commits: 1
+    - update submodule references to latest commits: 1
+    - update submodules and improve docc navigation docs: 1
+    - update submodules to latest commits: 1
+    - update svg asset naming and docc-preview cli usage: 1
+    - update swiftfigletkit: 1
+    - update wrkstrm-performance: 1
+Week 2026-01-12 .. 2026-01-18
+  - no commits
+Week 2026-01-19 .. 2026-01-25
+  - Cristian A Monterroza: 124
+    - add and update docc documentation for workspace schemes: 1
+    - add common-log submodule and update multiple packages: 1
+    - add commonconsolekit package and update launchpad docc flag: 1
+    - add commonschwablib target and update dependencies: 1
+    - add docc documentation for mono.xcworkspace targets: 1
+    - add docc minimum layout templates and update spm to swift 6.2: 1
+    - add foundry-classic-mac legacy macos app target: 1
+    - add gecko agent profiles and update test fixtures: 1
+    - add initial mono root agent documentation and assets: 1
+    - add kebab-case audit and cli subcommand: 1
+    - add oss scaffolding and ci for publiclib: 1
+    - add public-lib as submodule: 1
+    - add root agent avatar and update documentation: 1
+    - add schwab quote service and update agent paths: 1
+    - add swift tools version audit and docc layout checks: 1
+    - add tau agency agent files and update template paths: 1
+    - add wrkstrm-main submodule and update swift-log: 1
+    - add wrkstrm-networking submodule and docc workspace docs: 1
+    - chore: 6
+    - ci: 1
+    - commissioned package-local agents and updated journal: 1
+    - create configs: 1
+    - create google-ai-swift: 1
+    - create public-lib-swift: 1
+    - create swift-figlet-kit: 1
+    - disable code signing for foundry macos target: 1
+    - docs: 6
+    - feat: 3
+    - improve dependency handling in package.swift files: 1
+    - log package-local agent commissioning and expertise update: 1
+    - refactor: 1
+    - refactor agent and package paths; update dependency logic: 1
+    - refactor agent triads and add public sample templates: 1
+    - refactor docc generation to use memory.docc as source: 1
+    - refactor paths and dependencies for portability: 1
+    - refactor wrkstrmfoundation and wrkstrmmain package paths: 1
+    - remove maintainer agent docs and update dependencies: 1
+    - remove redundant guardrails from tau agent profile: 1
+    - remove tau agent agency, agenda, and metadata files: 1
+    - remove wrkstrm-networking package and update docc command: 1
+    - rename agent config files to use @ in filenames: 1
+    - rename agent json files for consistency: 1
+    - rename agent json files to use @ separator: 3
+    - rename and update common agent config files: 1
+    - rename dflatlib to swiftdirectorytools and update docs: 1
+    - rename dott agent files and update inheritance path: 1
+    - rename generative-ai-swift to google-ai-swift: 1
+    - rename product-owner agent json files with @ separator: 1
+    - rename public-lib to public-lib-swift and update references: 1
+    - rename wrkstrmkit to wrkstrm-kit and update references: 1
+    - standardize naming to kebab-case and update agent files: 1
+    - submodules: 2
+    - update .gitmodules: 2
+    - update agent file naming conventions and docs: 1
+    - update agent file naming conventions and lint config path: 1
+    - update agent triad file naming and references: 1
+    - update agents.md: 2
+    - update apple-dates submodule to latest commit: 1
+    - update cli-kit: 2
+    - update cli-kit and common-shell submodules: 1
+    - update common-agent-profile.md: 1
+    - update common-cli: 1
+    - update common-log: 1
+    - update common-process: 4
+    - update common-shell: 3
+    - update commonlog package path and version references: 1
+    - update config paths and agent naming conventions: 1
+    - update configs: 2
+    - update dependencies and agentscommand options: 1
+    - update dependencies and fix swiftfigletkit url: 1
+    - update dependencies and refine documentation and test config: 1
+    - update formaterror.swift: 1
+    - update google-ai-swift: 3
+    - update linting config paths in scripts and docs: 1
+    - update package.swift: 3
+    - update project.pbxproj: 1
+    - update project.yml.tmpl: 1
+    - update submodule references to latest commits: 1
+    - update submodules to latest commits: 3
+    - update typingpracticeview.swift: 1
+    - update wrkstrm-foundation: 1
+    - update wrkstrm-networking: 1
+    - update wrkstrm-performance: 4
+    - update wrkstrmcolor: 2
+    - update wrkstrmfoundation: 2
+    - update wrkstrmkit: 2
+    - update wrkstrmnetworking package name references: 1
+    - update wrkstrmnetworking package name to wrkstrm-networking: 1
+Week 2026-01-26 .. 2026-02-01
+  - Cristian A Monterroza: 56
+    - #685: 1
+    - add common-shell submodule: 1
+    - add initial generated site output for code swiftly: 1
+    - add initializers to commonoptionquote and greeks structs: 1
+    - add linux test workflow for swift universal: 1
+    - add openclaw runtime docs and update cli dependencies: 1
+    - add openclaw submodule and update references: 1
+    - add platform minimums override and docc root validator: 1
+    - add sketch-style svg resources and documentation: 1
+    - add submodules: 1
+    - add swift directory, json, and md formatter packages: 1
+    - add wrkstrm-github-io as github pages submodule: 1
+    - chore: 1
+    - do it.: 1
+    - enhance package audit target introspection and update dependencies: 1
+    - fix: 1
+    - migrate publiclib to swift-public-brokerage-lib: 1
+    - migrate swift-formatting-core and update dependencies: 1
+    - move documentation files to private directory: 1
+    - move private docc files to host/local directory: 1
+    - redirect design systems docs to wrkstrm.github.io: 1
+    - refactor and expand docc memory bundles and resources: 1
+    - refactor passkit docs and update roundups: 1
+    - remove publiclib integration from common-broker: 1
+    - remove schwablib and legacy swift-directory-tools: 1
+    - remove tradierlib and add swift-directory-tools package: 1
+    - remove wrkstrm-github-io submodule: 2
+    - rename index.md files to readme.md across project: 1
+    - submodules: 1
+    - submodules!: 1
+    - update: 1
+    - update cli-kit: 1
+    - update codeswiftly.github.io: 1
+    - update common-cli: 1
+    - update common-shell: 2
+    - update docc assets and journal entries: 1
+    - update docc github pages path conventions: 1
+    - update docc paths to reflect new private/public structure: 1
+    - update docc-design-system-published-websites.md: 1
+    - update google-ai-swift: 1
+    - update local dependency paths in finance packages: 1
+    - update macos deployment target and logger declaration: 1
+    - update package.swift: 1
+    - update public-lib-swift: 4
+    - update swift package paths to new orgs directory: 1
+    - update swift-format-files.txt: 1
+    - update wrkstrm-github-io: 1
+    - update wrkstrm-kit: 1
+    - update wrkstrm-networking: 1
+    - update wrkstrmpackageaudit.swift: 1
+    - update xcode project dependencies and swift settings: 1
 Week 2026-02-02 .. 2026-02-08
-  - Cristian A Monterroza: 139
-    - add auth-profiles template; ignore local auth-profiles: 1
-    - add notion importer tool and update carrie docs: 1
-    - bump mono submodule: 1
-    - bump sessions submodule: 2
+  - Cristian A Monterroza: 189
+    - #686: 1
+    - add: 2
+    - add allora-text org profile readme drafts: 1
+    - add allora-text org public/private readme templates: 1
+    - add claw-meets-clia: 1
+    - add common-ai submodule: 1
+    - add common-shell and switch wrkstrm-main to remote: 1
+    - add john whitecastle operator journal to memory.docc: 1
+    - add notionlib and swiftterminallinkrewriter packages: 1
+    - add swift playground and update submodule refs: 1
+    - add text-allora mono as submodule: 1
+    - audit: 1
+    - brand assets: 1
+    - brand identity doc: 1
+    - bump wrkstrm-finance + wrkstrm-kit submodule refs: 1
     - carrie philographic: 1
-    - carrie triad: 1
-    - chore: 36
+    - chore: 42
     - ci: 1
     - claw vs clia doc: 1
     - claw vs clia hub: 1
-    - claw-meets-clia page: 1
-    - clia brand identity doc: 1
-    - clia card wordmark update: 1
-    - clia front page reframing: 1
-    - clia intro copy update: 1
-    - clia orange brand: 1
-    - clia top section update: 1
-    - clia-agent-cli resources casing + clia sample: 1
-    - clia-org architecture + redirect: 1
-    - clia-org story libraries section: 1
-    - clia.sh claw vs clia development update: 1
-    - cloud: 1
-    - cloud docc: 1
-    - code red: 1
+    - clia: 1
+    - clia card wordmark: 1
+    - clia-agent-cli: 1
+    - clia-agent-cli resources + sample: 1
+    - clia-org: 12
+    - clia-org, codeswiftly, openclaw, wrkstrm-finance: 1
     - codex hero line: 1
     - codex narrative: 1
-    - design-systems canonical + index.docc root: 1
+    - common-broker: 3
+    - common-cli: 3
+    - common-shell: 1
+    - data: 3
     - dev curves doc: 1
-    - docc: 4
+    - docc: 2
     - docc merge fix: 1
+    - docc repo pages: 1
     - docs: 7
-    - fix: 3
-    - fix triads schema symlink to point at bundled resources: 1
-    - fr: 1
+    - feat: 2
+    - fix: 6
+    - friendlier clia intro: 1
     - front page install: 1
+    - front page reframing: 1
     - getting started: 1
     - hero q2 2025: 1
-    - laussat-studio pages: 1
+    - link task-assistant: 1
     - main characters categories: 1
-    - mono: 2
-    - move tau agent to wrkstrm-finance org root: 1
-    - package-audit universal drift check: 1
-    - package-steward v2: 1
-    - patch: 4
-    - philo previews: 1
-    - propagate v2 injection: 1
-    - publish clia 2025 wrapped: 1
-    - regenerate docc and add castor/claw memory: 1
+    - merge into wrapped docc: 1
+    - migrate google-ai-swift package to wrkstrm org: 1
+    - mono: 1
+    - move notionlib from system to api domain: 1
+    - move tau agent triads to wrkstrm-finance org root: 1
+    - operators: 1
+    - orange brand: 1
+    - package-audit: 1
+    - package-steward: 1
+    - package-steward v2 inject: 1
+    - pages redirect fix: 1
+    - per-repo sections: 1
+    - prepare submodule: 3
+    - publish 2025 wrapped: 1
+    - publish swift-terminal-link-rewriter dependency: 1
+    - redirect fix: 1
+    - refactor: 2
+    - remove commonswift brand identity docc bundle: 1
+    - remove design-systems docc stub: 1
     - remove myplayground.playground: 1
     - remove private brand refs: 1
-    - requests: 1
-    - revert "cloud docc: 1
+    - rename: 1
+    - replaced by text-allora repos: 1
+    - repo links: 1
     - roster: 1
     - roster link: 1
     - scale + perf docs: 1
     - scope of work doc: 1
     - scope stats: 1
     - scope tables: 1
-    - sops+age encrypted auth profiles: 1
-    - stop ignoring openclaw auth-profiles.json; bump mono: 1
+    - single index.docc root: 1
     - swift universal link: 1
     - swift universal link placement: 1
-    - swift-universal brand assets: 1
-    - swift-universal docc repo pages: 1
-    - swift-universal pages redirect fix: 1
-    - swift-universal per-repo sections: 1
-    - swift-universal repo links: 1
-    - terminal design system: 1
+    - switch commonai to wrkstrm submodule: 1
+    - switch finance libs to wrkstrm-finance org: 1
+    - tau agent moved under org root: 1
+    - test: 1
     - timeline dated: 1
-    - tools: 1
+    - top section update: 1
     - topics reorder: 1
+    - track common-broker as wrkstrm-finance submodule: 1
+    - track swift-public-brokerage-lib as wrkstrm-finance submodule: 1
+    - track swift-tradier-lib as wrkstrm-finance submodule: 1
     - triads: 1
     - triads + s-type docs: 1
     - triads/s-type topics: 1
-    - update incidents; bump mono submodule: 1
-    - update mono: 3
-    - update mono submodule: 2
-    - update mono submodule to b5a5099f: 1
-    - update session exports; add agent aliases: 1
-    - wrapped docc merge: 1
-    - wrapped landing fix: 1
+    - update audit.foundry.json: 2
+    - update claw vs clia development: 1
+    - update clia-mac-app.xcscheme: 1
+    - update clia-org pages submodule: 2
+    - update laussat-studio pages submodule: 1
+    - update package.resolved: 1
+    - update submodule: 1
+    - update submodules: 2
+    - update swift-public-brokerage-lib: 1
+    - update wrkstrm-foundation and wrkstrm-networking submodules: 1
+    - update wrkstrm-kit path and add docc workflows: 1
+    - update wrkstrm-kit submodule to latest commit: 1
+    - update wrkstrm-main: 1
+    - use named remote dependency for common-log: 1
+    - wrapped landing: 1
     - wrapped overview: 1
-    - wrkstrm pages redirect fix: 1
-    - wrkstrm-finance docs: 1
-    - wrkstrm-finance index.docc: 1
+    - wrkstrm-finance: 3
 Week 2026-02-09 .. 2026-02-15
-  - Cristian A Monterroza: 241
-    - add clia request overview schema: 1
-    - add divorce party theme to natashenough collab profile: 1
-    - add evidence index for amanda mentions in codex exports: 1
-    - add heart marker to natashenough operator collab profile: 1
-    - add operator profile: 2
-    - add threads/handoff bucket: 1
-    - agency: 1
+  - Cristian A Monterroza: 154
+    - add provisioned rismay-requests docc bundle; bump rismay.github.io submodule: 1
+    - add wrkstrm-finance github pages host skeleton: 1
     - agenda threads linkage: 1
     - agenda-thread-link: 1
     - agenda-thread-report threads buckets: 1
-    - appointment-reminders: 2
-    - auth: 2
-    - backlog: 1
-    - cadence: 1
-    - carrie: 1
-    - catch: 1
-    - chore: 11
-    - clia: 2
-    - clia-design-system sidecar jsonl doc: 1
-    - clia-org + wrkstrm + laussat-studio: 1
-    - collab: 1
+    - bump clia-org + wrkstrm public docc pages: 1
+    - chore: 7
+    - clia: 6
+    - code-swiftly: 1
     - collab route: 1
-    - declaw: 5
+    - common-shell: 1
+    - commoncli: 1
     - declaw request doc: 1
-    - docc: 2
+    - deps: 3
+    - design-system: 3
+    - discord: 1
+    - docc: 5
+    - email update: 1
+    - fix swift-docc-deploy provisioned-share workflow: 1
+    - github-cli: 10
     - handoff bucket support: 1
-    - header: 1
-    - hermes: 1
-    - incident: 4
-    - index catalog route: 1
-    - laussat-studio email update: 1
     - legacy agenda thread report: 1
-    - main: 1
-    - memory: 3
-    - mission control: 1
-    - mono: 59
-    - move operator tenancy to core field: 1
-    - openclaw: 1
-    - operator threads: 1
-    - operators collab pages: 1
-    - owner vs collaborator: 1
-    - p0: 1
-    - pjm: 13
-    - profiles: 1
+    - mono: 47
+    - mono.xcworkspace: 1
+    - operators collab: 1
+    - profile: 4
     - profiles command rename: 2
-    - publishing: 2
-    - record natashenough collab repo + url: 1
-    - record natashenough silo collab page token: 1
-    - requests: 3
-    - rismay: 11
-    - silo collab page: 1
+    - provisioned: 1
+    - prune commoncli git/gh adapters to in-use options: 1
+    - silo collab: 1
     - spm: 1
-    - sre: 2
-    - submodule: 9
-    - submodules: 9
-    - sync: 4
+    - sre: 1
+    - submodule: 2
+    - submodules: 25
+    - sync: 2
     - tenancy schema: 1
-    - threads: 35
-    - todo3: 13
+    - threads: 2
     - triads mirror command: 1
     - triads sidecar jsonl naming: 1
-    - unclaw: 1
-    - update 0.5.0 sidecar jsonl naming doc: 1
-    - update clia requests schema  to disk identifiers: 1
-    - update rismay agenda to triads schema 0.5.0: 1
-    - workspace: 2
-Week 2026-02-16 .. 2026-02-22
-  - Cristian A Monterroza: 232
-    - #51: 1
-    - add: 1
-    - add directory mono-root and public-branch verify modes: 1
-    - add directory provisioned-arm verification mode: 1
-    - add initial todo3 operator profiles for tkoh, khegh, and johnwhitecastle: 1
-    - add json operator profile schema and initial operator style profiles: 1
-    - add no-history public publish command to taxonomy-cli: 1
-    - add patch launchpad sites registry/check cli: 1
-    - add private swift-git-cli: 1
-    - add sop file store and initial sop for thread spinning: 1
-    - add todo3 root docc index: 1
-    - add todo3 root entrypoint for rismay operator profile: 1
-    - brand-hub: 1
-    - catch-sites: 2
-    - chore: 58
-    - clean up catch-sites sources layout: 1
-    - clia: 1
-    - codify no-history public submodule publish policy: 1
-    - collab: 11
-    - collab shares: 1
-    - collab tech roots: 1
-    - collab tkoh cta: 1
-    - collab-jakor: 4
-    - collabs: 3
-    - common-process common-log path fix: 1
-    - common-process local deps path fix: 1
-    - define four-arm taxonomy contract and add swift taxonomy verifier: 1
-    - docc: 3
-    - docc link patterns: 1
-    - docc routing note: 1
-    - docs: 5
-    - enforce arm repo path pattern in taxonomy verify: 1
-    - enforce exact legacy public readme submodule mapping: 1
-    - fix: 1
-    - fix tkoh discord cta: 1
-    - gitignore: 1
-    - harden provisioned-arm checks for metadata, build output, and readme leaks: 1
-    - harden taxonomy no-history publish repo-root validation: 1
-    - investigations: 1
-    - jakor: 1
-    - let's go.: 1
-    - lower deploy deps to macos 14: 1
-    - lower swift-universal toolchain to macos 14: 1
-    - merge public .clia metadata into private workspace mirror: 1
-    - move ai subtree to private and add submodule system/sop docs: 1
-    - move mono submodule to imports/mono: 1
-    - move provisioned docc bundles from public to provisioned arm: 1
-    - move public pages submodule to public/gh-pages/docc: 1
-    - move public readme submodule to host/type/repo path: 1
-    - move taxonomy cli sources to sources/swift-taxonomy-cli: 1
-    - normalize public pages submodule to public/docc/pages: 1
-    - openclaw: 2
-    - operator profile: 1
-    - operator profiles: 3
-    - operators: 1
-    - paths + bundle: 1
-    - pjm: 4
-    - private: 2
-    - profiles: 2
-    - provisioned: 18
-    - public: 1
-    - rename collab-tkoh slug: 1
-    - rename modules arm to organisms and update taxonomy tooling: 1
-    - rename patch-sites to catch-sites: 1
-    - rename taxonomy tool to swift-taxonomy-cli: 1
-    - requests: 3
-    - require no-history for public and make provisioned optional: 1
-    - restore public readme legacy path and whitelist it in taxonomy: 1
-    - revert "chore: 2
-    - root: 3
-    - standardize provisioned no-history publish policy and cli: 1
-    - submodule: 7
-    - swift-cli-kit submodule-audit: 1
-    - swift-threads-cli latest run + latest.md: 1
-    - taxonomy: 1
-    - thread spin procedure doc: 1
-    - threads: 4
-    - tkoh cta to operator channel: 1
-    - tkoh cta to tkoh channel: 1
-    - transparent emoji svg backgrounds: 1
-    - triage: 21
-    - triage bucket pages link to threads: 1
-    - triage share + discord sop: 1
-    - triage-sets link-only buckets: 1
-    - update agentify and openclaw submodules to latest main: 1
-    - update imports/mono after nested submodule cleanup: 1
-    - update imports/mono submodule to include restored docc files: 1
-    - update public submodules to no-history publish tips: 1
+    - triage: 1
+    - update clia-org provisioned design system: 1
+    - update spm pins and local package paths: 1
+    - v0: 1
     - wrkstrm: 1
-    - wrkstrm brand: 1
-    - wrkstrm brand export: 2
-    - wrkstrm brand v3: 1
-    - wrkstrm docs: 1
+    - wrkstrm provisioned: 1
+    - wrkstrm requests.docc: 1
+    - wrkstrm-finance pages: 1
+    - wrkstrm-finance pages host: 2
+Week 2026-02-16 .. 2026-02-22
+  - Cristian A Monterroza: 116
+    - add: 2
+    - add declaw v1 demo-flow + transcript docs: 1
+    - add git submodule sop and design system docs: 1
+    - add operator profile for tkoh and provisioned collab site: 1
+    - add operator profile scaffold for jakor: 1
+    - add provisioned wrkstrm token usage docc bundle: 1
+    - add rismay astrological information to operator memory: 1
+    - add submodule-audit: 1
+    - avoid duplicate wrkstrm identities: 1
+    - bump wrkstrm.github.io pages submodule: 1
+    - chore: 15
+    - code/mono: 1
+    - collab tkoh: 4
+    - docc: 10
+    - docc design: 1
+    - docc design system: 1
+    - docc-requests: 1
+    - docs: 2
+    - drop -0: 1
+    - fix: 2
+    - fix common-process local dep path for common-log: 1
+    - lower common-shell/common-process platforms to macos 14: 1
+    - lower swift-common-cli and swift-directory-tools platforms to macos 14: 1
+    - mirror→docc thread pages: 1
+    - mission-control.sop: 4
+    - mono: 4
+    - move swift-threads-cli to wrkstrm public tooling: 1
+    - onboarding: 2
+    - org sop: 2
+    - pantera: 1
+    - provision wrkstrm-org-design-system docc bundle: 1
+    - provisioned: 7
+    - refactor: 1
+    - remove nested agentify/openclaw submodules and update submodule docs: 1
+    - rename submodule design docs to organisms arm: 1
+    - sop: 5
+    - submodule: 2
+    - submodule audit: 1
+    - swift-threads: 7
+    - swift-threads-cli: 3
+    - triage: 6
+    - wrkstrm: 1
+    - wrkstrm sop: 2
+    - wrkstrm-finance pages host: 1
+    - wrkstrm.sop: 10
 ```

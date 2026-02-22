@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
+<rect x="0" y="0" width="900" height="420" fill="#f8fafc" />
+<text x="450" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Weekly Commit Activity (2026-01-01 - 2026-02-22)</text>
+<line x1="60" y1="340" x2="880" y2="340" stroke="#cbd5e1" stroke-width="1" />
+<g font-family="monospace" font-size="11" fill="#1e293b">
+<line x1="60" y1="340.0" x2="880" y2="340.0" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="343.0" text-anchor="end">0</text>
+<line x1="60" y1="262.9100529100529" x2="880" y2="262.9100529100529" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="265.9100529100529" text-anchor="end">47</text>
+<line x1="60" y1="185.82010582010582" x2="880" y2="185.82010582010582" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="188.82010582010582" text-anchor="end">94</text>
+<line x1="60" y1="108.73015873015873" x2="880" y2="108.73015873015873" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="111.73015873015873" text-anchor="end">141</text>
+<line x1="60" y1="31.640211640211646" x2="880" y2="31.640211640211646" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="34.640211640211646" text-anchor="end">188</text>
+</g>
+<g font-family="monospace">
+<rect x="60.0" y="328.51851851851853" width="95.5" height="11.481481481481481" fill="#2f80ed" rx="2"/>
+<text x="107.75" y="370" transform="rotate(-45 107.75,370)" text-anchor="middle" font-size="10" fill="#334155">12/29</text>
+<text x="107.75" y="322" text-anchor="middle" font-size="10" fill="#334155">7</text>
+<rect x="163.5" y="251.42857142857144" width="95.5" height="88.57142857142857" fill="#2f80ed" rx="2"/>
+<text x="211.25" y="370" transform="rotate(-45 211.25,370)" text-anchor="middle" font-size="10" fill="#334155">01/05</text>
+<text x="211.25" y="245" text-anchor="middle" font-size="10" fill="#334155">54</text>
+<rect x="267.0" y="340.0" width="95.5" height="0.0" fill="#2f80ed" rx="2"/>
+<text x="314.75" y="370" transform="rotate(-45 314.75,370)" text-anchor="middle" font-size="10" fill="#334155">01/12</text>
+<text x="314.75" y="334" text-anchor="middle" font-size="10" fill="#334155">0</text>
+<rect x="370.5" y="136.61375661375664" width="95.5" height="203.38624338624336" fill="#2f80ed" rx="2"/>
+<text x="418.25" y="370" transform="rotate(-45 418.25,370)" text-anchor="middle" font-size="10" fill="#334155">01/19</text>
+<text x="418.25" y="130" text-anchor="middle" font-size="10" fill="#334155">124</text>
+<rect x="474.0" y="248.14814814814815" width="95.5" height="91.85185185185185" fill="#2f80ed" rx="2"/>
+<text x="521.75" y="370" transform="rotate(-45 521.75,370)" text-anchor="middle" font-size="10" fill="#334155">01/26</text>
+<text x="521.75" y="242" text-anchor="middle" font-size="10" fill="#334155">56</text>
+<rect x="577.5" y="30.0" width="95.5" height="310.0" fill="#2f80ed" rx="2"/>
+<text x="625.25" y="370" transform="rotate(-45 625.25,370)" text-anchor="middle" font-size="10" fill="#334155">02/02</text>
+<text x="625.25" y="24" text-anchor="middle" font-size="10" fill="#334155">189</text>
+<rect x="681.0" y="87.40740740740742" width="95.5" height="252.59259259259258" fill="#2f80ed" rx="2"/>
+<text x="728.75" y="370" transform="rotate(-45 728.75,370)" text-anchor="middle" font-size="10" fill="#334155">02/09</text>
+<text x="728.75" y="81" text-anchor="middle" font-size="10" fill="#334155">154</text>
+<rect x="784.5" y="149.73544973544975" width="95.5" height="190.26455026455025" fill="#2f80ed" rx="2"/>
+<text x="832.25" y="370" transform="rotate(-45 832.25,370)" text-anchor="middle" font-size="10" fill="#334155">02/16</text>
+<text x="832.25" y="143" text-anchor="middle" font-size="10" fill="#334155">116</text>
+</g>
+</svg>

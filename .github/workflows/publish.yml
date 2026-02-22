@@ -24,9 +24,6 @@ jobs:
         run: |
           xcrun docc convert index.docc             --output-path site             --transform-for-static-hosting             --hosting-base-path /repo-stats-latest
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v4
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
