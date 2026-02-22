@@ -16,7 +16,7 @@ Generated date: 2026-02-22 | Window: 2026-01-01 through 2026-02-22.
 - Top teammate: Cristian A Monterroza
 
 ## Weekly commit chart
-![Weekly commit totals](weekly-commits.svg)
+![Weekly commit totals](index-weekly-commit-chart-diagram.svg)
 
 ## Weekly reports
 - [Week 2025-12-29 .. 2026-01-04](week-2025-12-29.md)
