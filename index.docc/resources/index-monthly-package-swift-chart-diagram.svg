@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420">
 <rect x="0" y="0" width="900" height="420" fill="#f8fafc" />
-<text x="450" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Cumulative `Package.swift` Activity (2026-01 - 2026-02)</text>
+<text x="450" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Cumulative `Package.swift` Activity (2026-02-22 - 2026-02-23)</text>
 <line x1="60" y1="340" x2="880" y2="340" stroke="#cbd5e1" stroke-width="1" />
 <g font-family="monospace" font-size="11" fill="#1e293b">
 <line x1="60" y1="340.0" x2="880" y2="340.0" stroke="#e2e8f0" stroke-width="1" />
 <text x="52" y="343.0" text-anchor="end">0</text>
-<line x1="60" y1="266.4406779661017" x2="880" y2="266.4406779661017" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="269.4406779661017" text-anchor="end">14</text>
-<line x1="60" y1="192.88135593220338" x2="880" y2="192.88135593220338" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="195.88135593220338" text-anchor="end">28</text>
-<line x1="60" y1="119.32203389830508" x2="880" y2="119.32203389830508" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="122.32203389830508" text-anchor="end">42</text>
-<line x1="60" y1="45.762711864406754" x2="880" y2="45.762711864406754" stroke="#e2e8f0" stroke-width="1" />
-<text x="52" y="48.762711864406754" text-anchor="end">56</text>
+<line x1="60" y1="262.9936305732484" x2="880" y2="262.9936305732484" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="265.9936305732484" text-anchor="end">39</text>
+<line x1="60" y1="185.98726114649682" x2="880" y2="185.98726114649682" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="188.98726114649682" text-anchor="end">78</text>
+<line x1="60" y1="108.98089171974524" x2="880" y2="108.98089171974524" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="111.98089171974524" text-anchor="end">117</text>
+<line x1="60" y1="31.97452229299364" x2="880" y2="31.97452229299364" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="34.97452229299364" text-anchor="end">156</text>
 </g>
 <g font-family="monospace">
-<rect x="60.0" y="61.525423728813564" width="406.0" height="278.47457627118644" fill="#ef4444" rx="2"/>
-<text x="263.0" y="370" transform="rotate(-45 263.0,370)" text-anchor="middle" font-size="10" fill="#334155">2026-01</text>
-<text x="263.0" y="55" text-anchor="middle" font-size="10" fill="#334155">53</text>
+<rect x="60.0" y="30.0" width="406.0" height="310.0" fill="#ef4444" rx="2"/>
+<text x="263.0" y="370" transform="rotate(-45 263.0,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-22</text>
+<text x="263.0" y="24" text-anchor="middle" font-size="10" fill="#334155">157</text>
 <rect x="474.0" y="30.0" width="406.0" height="310.0" fill="#ef4444" rx="2"/>
-<text x="677.0" y="370" transform="rotate(-45 677.0,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02</text>
-<text x="677.0" y="24" text-anchor="middle" font-size="10" fill="#334155">59</text>
+<text x="677.0" y="370" transform="rotate(-45 677.0,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-23</text>
+<text x="677.0" y="24" text-anchor="middle" font-size="10" fill="#334155">157</text>
 </g>
 </svg>
